@@ -123,13 +123,13 @@ with st.sidebar:
         st.info("Start a chat to see your history.")
 
 
-accident_df = pd.read_excel("accident.xlsx")
-flood_df = pd.read_excel("flood.xlsx")
-crime_df = pd.read_excel("crime_details.xlsx")
-air_df = pd.read_excel("air_pollution.xlsx")
-heat_df = pd.read_excel("heat.xlsx")
-population_df = pd.read_excel("population.xlsx")
-risk_df = pd.read_excel("riskanalysis.xlsx")
+        accident_df = pd.read_excel("accident.xlsx")
+        flood_df = pd.read_excel("flood.xlsx")
+        crime_df = pd.read_excel("crime_details.xlsx")
+        air_df = pd.read_excel("air_pollution.xlsx")
+        heat_df = pd.read_excel("heat.xlsx")
+        population_df = pd.read_excel("population.xlsx")
+        risk_df = pd.read_excel("riskanalysis.xlsx")
 
 # Clean column headers
 for df in [accident_df, flood_df, crime_df, air_df, heat_df, population_df, risk_df]:
