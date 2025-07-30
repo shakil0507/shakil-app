@@ -1,0 +1,245 @@
+{
+  "shakil": [
+    {
+      "role": "assistant",
+      "content": "Hi shakil, welcome to Chennai AI Assistant Chatbot! \ud83d\ude0a",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "user",
+      "content": "tll me abou accident",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "assistant",
+      "content": "\u2757 Mention a valid area.",
+      "time": "10:51 AM",
+      "type": "accident",
+      "zone": null
+    },
+    {
+      "role": "user",
+      "content": "accident in manali",
+      "time": "10:51 AM"
+    },
+    {
+      "role": "assistant",
+      "content": "\ud83d\udea7 Accidents in Manali",
+      "time": "10:51 AM",
+      "type": "accident",
+      "zone": "Manali"
+    }
+  ],
+  "imdha": {
+    "Chat - Jul 28, 03:18 PM": [
+      {
+        "role": "assistant",
+        "content": "Hi imdha, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "03:18 PM"
+      },
+      {
+        "role": "user",
+        "content": "heat in thiruvottiyur",
+        "time": "03:18 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello imdha! \ud83d\udc4b I'm *Chennai AI Risk Chatbot*. You can ask me about risk factors like accident, flood, pollution, etc. \ud83d\ude0a",
+        "time": "03:18 PM"
+      },
+      {
+        "role": "user",
+        "content": "heat in egmore",
+        "time": "03:19 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Egmore",
+        "time": "03:19 PM",
+        "type": "heat",
+        "zone": "Egmore"
+      },
+      {
+        "role": "user",
+        "content": "heat in thiruvottiyur",
+        "time": "03:19 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello imdha! \ud83d\udc4b I'm *Chennai AI Risk Chatbot*. You can ask me about risk factors like accident, flood, pollution, etc. \ud83d\ude0a",
+        "time": "03:19 PM"
+      },
+      {
+        "role": "user",
+        "content": "heat in madhavaram",
+        "time": "03:19 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Madhavaram",
+        "time": "03:19 PM",
+        "type": "heat",
+        "zone": "Madhavaram"
+      },
+      {
+        "role": "user",
+        "content": "heat in velachery",
+        "time": "03:20 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Velachery",
+        "time": "03:20 PM",
+        "type": "heat",
+        "zone": "Velachery"
+      },
+      {
+        "role": "user",
+        "content": "heat in vadapalani",
+        "time": "03:20 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Vadapalani",
+        "time": "03:20 PM",
+        "type": "heat",
+        "zone": "Vadapalani"
+      },
+      {
+        "role": "user",
+        "content": "heat in koyambedu",
+        "time": "03:20 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Koyambedu",
+        "time": "03:20 PM",
+        "type": "heat",
+        "zone": "Koyambedu"
+      },
+      {
+        "role": "user",
+        "content": "heat in anna nagar",
+        "time": "03:21 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Anna Nagar",
+        "time": "03:21 PM",
+        "type": "heat",
+        "zone": "Anna Nagar"
+      },
+      {
+        "role": "user",
+        "content": "heat in t nagar",
+        "time": "03:21 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Anna Nagar",
+        "time": "03:21 PM",
+        "type": "heat",
+        "zone": "Anna Nagar"
+      },
+      {
+        "role": "user",
+        "content": "heat in guindy",
+        "time": "03:22 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Guindy",
+        "time": "03:22 PM",
+        "type": "heat",
+        "zone": "Guindy"
+      },
+      {
+        "role": "user",
+        "content": "heat in purasaiwakkam",
+        "time": "03:22 PM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\udd75 Heat Impact in Purasaiwakkam",
+        "time": "03:22 PM",
+        "type": "heat",
+        "zone": "Purasaiwakkam"
+      }
+    ]
+  },
+  "citizens": {
+    "Chat - Jul 28, 11:06 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi citizens, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:06 AM"
+      },
+      {
+        "role": "user",
+        "content": "accident egmore",
+        "time": "11:06 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\udea7 Accidents in Egmore",
+        "time": "11:06 AM",
+        "type": "accident",
+        "zone": "Egmore"
+      }
+    ]
+  },
+  "thanzeer": {
+    "Chat - Jul 28, 11:09 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi thanzeer, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:08 AM"
+      },
+      {
+        "role": "user",
+        "content": "crime in tondiarpet",
+        "time": "11:09 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\ude94 Crimes in Tondiarpet",
+        "time": "11:09 AM",
+        "type": "crime",
+        "zone": "Tondiarpet"
+      }
+    ]
+  },
+  "saligh": {
+    "Chat - Jul 28, 11:48 AM": [
+      {
+        "role": "assistant",
+        "content": "Hi saligh, welcome to *Chennai AI Assistant Chatbot*! \ud83d\ude0a",
+        "time": "11:47 AM"
+      },
+      {
+        "role": "user",
+        "content": "flood in anna nagar",
+        "time": "11:48 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83c\udf0a Flood Data for Anna Nagar",
+        "time": "11:48 AM",
+        "type": "flood",
+        "zone": "Anna Nagar"
+      },
+      {
+        "role": "user",
+        "content": "population in guindy",
+        "time": "11:48 AM"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83d\udc65 Population in Guindy",
+        "time": "11:48 AM",
+        "type": "population",
+        "zone": "Guindy"
+      }
+    ]
+  }
+}
