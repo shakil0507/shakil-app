@@ -123,7 +123,16 @@ with st.sidebar:
         st.info("Start a chat to see your history.")
 
 # Load data
-accident_df = pd.read_excel("accident.xlsx")
+import os
+import pandas as pd
+
+# Always safe: works on local, Streamlit Cloud, and bundled apps
+current_dir = os.path.dirname(os.path.abspath(__file__))
+file_path = os.path.join(current_dir, "accident.xlsx")
+
+# Load file safely
+accident_df = pd.read_excel(file_path)
+
 flood_df = pd.read_excel("flood.xlsx")
 crime_df = pd.read_excel("crime_details.xlsx")
 air_df = pd.read_excel("air_pollution.xlsx")
