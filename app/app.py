@@ -123,8 +123,8 @@ with st.sidebar:
         st.info("Start a chat to see your history.")
 
 
-accident_df = load_excel("accident.xlsx")
-flood_df = load_excel("flood.xlsx")
+accident_df = pd.read_excel("accident.xlsx")
+flood_df = pd.read_excel("flood.xlsx")
 crime_df = pd.read_excel("crime_details.xlsx")
 air_df = pd.read_excel("air_pollution.xlsx")
 heat_df = pd.read_excel("heat.xlsx")
